@@ -1,0 +1,937 @@
+name,text
+01-C-1-1, Un cheval fou dans mon jardin !
+01-C-1-2, « Deux cents nuqueries au pelage brun ! »
+01-C-1-3, Trois singes aveugles au bord du lac !
+01-C-1-4, quatre vieilles truies éléphantesques
+01-C-1-5, cinq piments fiers et passionnés
+01-C-1-6, six ours aimants domestiqués
+01-C-2-1, Un cheval fou dans mon jardin !
+01-C-2-2, Deux années gris au pelage brun !
+01-C-2-3, Trois signes aveugles au bord du lac !
+01-C-2-4, Quatre vieilles truies éléphantesques !
+01-C-2-5, Cinq pumeurs fiers et passionnés !
+01-C-2-6, Six ours aimants domestiqués !
+01-D-1-1, « Un cheval fou dans mon jardin ! »
+01-D-1-2, deux ans aigris au pelage brun
+01-D-1-3, Trois cygnes aveugles au bord du lac.
+01-D-1-4, Quatre vieilles truies éléphantesques !
+01-D-1-5, « Simplement fier et passionné ! »
+01-D-1-6, six ours aimants domestiqués
+01-D-2-1, Un cheval fou dans mon jardin !
+01-D-2-2, Deux ânes aigris aux pelages bruns !
+01-D-2-3, Trois signes aveugles au bord du lac ?
+01-D-2-4, Quatre vieilles truies éléphantesques !
+01-D-2-5," cinq piments fiers et passionnés,"
+01-D-2-6," C'est dur, c'est mal domestiqué."
+01-J-1-1, Un cheval fou dans mon jardin !
+01-J-1-2, Deux ânes aigris au pelage brun.
+01-J-1-3, Trois signes aveugles au bord du lac.
+01-J-1-4, quatre vieilles truies éléphantesques
+01-J-1-5, Cinq pumas fiers et passionnés !
+01-J-1-6, Six ours et mains domestiquées.
+01-J-2-1, Un cheval fou dans mon jardin !
+01-J-2-2, Deux ânes aigris au pelage brun.
+01-J-2-3, Trois signes aveugles au bord du lac.
+01-J-2-4, Quatre vieilles truies éléphantesques !
+01-J-2-5, Cinq pumaurs fiers et passionnés.
+01-J-2-6, Six ours et mains domestiquées.
+01-N-1-1, Un cheval fou dans mon jardin.
+01-N-1-2, Deux ânes aigris au pelage brun.
+01-N-1-3, Trois signes aveugles au bord du lac.
+01-N-1-4, Quatre vieilles truies éléphantesques
+01-N-1-5, Cinq piments fiers et passionnés.
+01-N-1-6, Six ours aimants domestiqués
+01-P-1-1, « Je vais le foutre dans mon jardin ! »
+01-P-1-2, « Deux ans négri au pelage brun. »
+01-P-1-3, Trois cygnes aveugles au bord du lac.
+01-P-1-4, quatre vieilles truies
+01-P-1-5, 5 pumaurs fiers et passionnés
+01-P-1-6, Six ours aimants domestiqués.
+01-P-2-1, « Un cheval fou dans mon jardin ! »
+01-P-2-2, deux ornées grises au pelage brun
+01-P-2-3," Oh, signe aveugle au bord du lac !"
+01-P-2-4, Quatre vieilles truies éléphantesques !
+01-P-2-5, « Cinq piments fiers et passionnés ! »
+01-P-2-6, « Six ours aimants domestiqués ? »
+01-S-1-1, « Un cheval fou dans mon jardin ? »
+01-S-1-2, « Deux ans négri au pelage brun ? »
+01-S-1-3, Trois signes aveugles au bord du lac ?
+01-S-1-4, quatre vieilles truies éléphantesques
+01-S-1-5, « Cinq puma fiers et passionnés ! »
+01-S-1-6, six ours aimants domestiqués
+01-S-2-1, « Un cheval fou dans mon jardin ? »
+01-S-2-2, deux ânes aigris au pelage brun
+01-S-2-3, Trois signes aveugles au bord du lac ?
+01-S-2-4, quatre vieilles truies éléphantesques
+01-S-2-5, Cinq piments fiers et passionnés !
+01-S-2-6, ciseaux sémants domestiqués
+01-T-1-1," « Je vais le foutre, mon château ! »"
+01-T-1-2, Tous en aigris au pelage-bon.
+01-T-1-3, Trois signes aveugles au bord du lac.
+01-T-1-4, Quatre vieilles truies éléphantesques !
+01-T-1-5, Cinq pumeurs fières et passionnées.
+01-T-1-6, Six ours et mains domestiquées.
+01-T-2-1," Je vais le foutre, mon chien, là."
+01-T-2-2, deux ânes aigris au pelage brun
+01-T-2-3, Trois signes aveugles au bord du lac.
+01-T-2-4, Quatre vieilles truies éléphantesques !
+01-T-2-5, Saint-Pumant fier et passionné.
+01-T-2-6, Ses ours et mains domestiquées.
+02-C-1-1, Un cheval fou dans mon jardin !
+02-C-1-2, « Deux années grises au pelage brun ! »
+02-C-1-3, Trois signes aveugles au bord du lac.
+02-C-1-4, Quatre vieilles truies éléphantesques!
+02-C-1-5, Cinq pumas fiers et passionnés
+02-C-1-6, Cisoure aimant domestiqué.
+02-C-2-1, Un cheval fou dans mon jardin?
+02-C-2-2, Deux années grises au pelage brun.
+02-C-2-3, Trois signes aveugles au bord du lac.
+02-C-2-4, Quatre vieilles truies éléphantesques!
+02-C-2-5, 5 Puma fiers et passionnés!
+02-C-2-6, Cisoure aimant domestiqué.
+02-D-1-1, Un cheval fou dans mon jardin!
+02-D-1-2," Deux ânes et griots, pelage brun."
+02-D-1-3, Trois signes aveugles au bord du lac.
+02-D-1-4, Quatre vieilles truies éléphantesques !
+02-D-1-5, 5. Puis ma fière et passionnée...
+02-D-1-6, « Cisourément domestiqué. »
+02-D-2-1, Un cheval fou dans mon jardin!
+02-D-2-2, Deux ans en aigris au pelage brun.
+02-D-2-3, Trois signes aveugles au bord du lac.
+02-D-2-4, Quatre vieilles truies élévantesques !
+02-D-2-5," « Sainte pumeur, fière et passionnée. »"
+02-D-2-6, si sourd et ment domestiqué
+02-J-1-1, Un cheval fou dans mon jardin!
+02-J-1-2, Deux ânes aigris au pelage brun.
+02-J-1-3, Trois signes aveugles au bord du lac.
+02-J-1-4, Quatre vieilles truies éléphantesques
+02-J-1-5, 5. Puma fière et passionnée
+02-J-1-6, Cisours et mains domestiquées
+02-J-2-1, Un cheval fou dans mon jardin !
+02-J-2-2, Deux ânes aigris au pelage brun.
+02-J-2-3, Trois signes aveugles au bord du lac !
+02-J-2-4, quatre vieilles truies éléphantesques
+02-J-2-5," 5. Puma, fier et passionné."
+02-J-2-6, Six jours aimants domestiqués.
+02-N-1-1, Un cheval fou dans mon jardin
+02-N-1-2, Deux ânes aigris au pelage brun.
+02-N-1-3, Trois signes aveugles au bord du lac.
+02-N-1-4, Quatre vieilles truies éléphantesques.
+02-N-1-5, 5. Puma fière et passionnée.
+02-N-1-6, Cisours aimants domestiqués
+02-P-1-1, Un cheval fou dans mon jardin !
+02-P-1-2," « Deux ans en écrit, au pelage brun. »"
+02-P-1-3, Trois cygnes aveugles au bord du lac.
+02-P-1-4, quatre vieilles truies éléphantesques
+02-P-1-5, « Cinq pumas fiers et passionnés ! »
+02-P-1-6," « Cisours, aimants, domestiqués ! »"
+02-P-2-1, Un cheval fou dans mon jardin !
+02-P-2-2, « Deux ans en aigris au pelage brun ! »
+02-P-2-3, Trois signes aveugles au bord du lac !
+02-P-2-4, Quatre vieilles tuyés éléphantesques !
+02-P-2-5," 5, puis moi, fière et passionnée !"
+02-P-2-6," Six jours aimants, domestiqués !"
+02-S-1-1, « Un cheval fou dans mon jardin ? »
+02-S-1-2, Deux ânes aigris au pelage brun ?
+02-S-1-3, « Trois signes aveugles au bord du lac ? »
+02-S-1-4, « Quatre vieilles truies éléphantesques ! »
+02-S-1-5," « Cinq, puis ma fière est passionnée. »"
+02-S-1-6, si
+02-S-2-1, « Un cheval fou dans mon jardin ? »
+02-S-2-2, « Deux ânes et gris au pelage brun ! »
+02-S-2-3, « Trois signes aveugles au bord du lac ? »
+02-S-2-4, quatre vieilles truies éléphantesques
+02-S-2-5, « Cinq pumas fiers et passionnés ? »
+02-S-2-6, CISOURS ÉMENTS DOMESTIQUÉS
+02-T-1-1, Un cheval fou dans mon jardin.
+02-T-1-2, Deux années gris au pelage brun.
+02-T-1-3, Trois cygnes aveugles au bord du lac.
+02-T-1-4, quatre vieilles truies éléphantesques
+02-T-1-5, Cinq puma fière et passionnée.
+02-T-1-6, Cisoure aimant domestiqué.
+02-T-2-1, Un cheval fou dans mon jardin!
+02-T-2-2, Deux ânes et gris au pelage brun.
+02-T-2-3, Trois signes aveugles au bord du lac.
+02-T-2-4," Quatre vieilles truies, éléphantesques !"
+02-T-2-5, cinq puis ma fière est passionnée
+02-T-2-6, CISOURS ÉMENTS DOMESTIQUÉS
+03-C-1-1, Un cheval fou dans mon jardin ?
+03-C-1-2, Deux ans d'ingrées au pelage brun.
+03-C-1-3, Trois signes avec l'au bord du lac.
+03-C-1-4," Qu'advient-t-il, l'effantesque?"
+03-C-1-5, 5 Puma fiers et passionnés.
+03-C-1-6, Cisourcement domestiqué.
+03-C-2-1, Un cheval fou dans mon jardin?
+03-C-2-2, Deux ans d'ingrées au pelage brun !
+03-C-2-3, Trois signes avec l'au bord du lac.
+03-C-2-4, Qu'à devient étru et éléphantesque!
+03-C-2-5, 5 Pimot fiers et passionnés!
+03-C-2-6, Césure sémant domestiqué
+03-D-1-1, Un cheval fou dans mon jardin.
+03-D-1-2, Deux ans en aigris au pelage brun.
+03-D-1-3, Trois signes avec l'au bord du lac.
+03-D-1-4, Quatre vieilles truies éléphantesques.
+03-D-1-5, 5 puma fiers et passionnés.
+03-D-1-6, Si sourcement domestiqués.
+03-D-2-1, Un cheval fou dans mon jardin.
+03-D-2-2, Deux ans en écrit au pelage brun.
+03-D-2-3, Trois signes avec l'au bord du lac.
+03-D-2-4, Kat devient très éléphantesque.
+03-D-2-5, 5 plus moi fier et passionné.
+03-D-2-6, Si Zour s'aimait à domestiquer.
+03-J-1-1, Un cheval fou dans mon jardin.
+03-J-1-2, Deux ans naigrés au pelage brun.
+03-J-1-3, Trois signes à Vègle au bord du lac.
+03-J-1-4, Qu'à devientrui éléphantesque.
+03-J-1-5, 5 FIMA fiers et passionnés.
+03-J-1-6, Saisissement domestiqué.
+03-J-2-1, Un cheval fou dans mon jardin.
+03-J-2-2, Deux ans en agri au pelage brun.
+03-J-2-3, Trois signes aveugles au bord du lac.
+03-J-2-4, Quatre vieilles trous éléphantesques.
+03-J-2-5, 5 Puma fiers et passionnés.
+03-J-2-6, Saisissement domestiqué
+03-N-1-1, Un cheval fou dans mon jardin.
+03-N-1-2, Deux ans d'ingrées au pelage brun.
+03-N-1-3, Trois signes aveugles au bord du lac.
+03-N-1-4, Quatre vieilles truies éléphantesques.
+03-N-1-5, 5 Pumas fiers et passionnés.
+03-N-1-6, Césurcement domestiqué
+03-P-1-1, Un cheval fou dans mon jardin ?
+03-P-1-2, Deux ans en agréé au pelage brun.
+03-P-1-3, Trois signes aveugles au bord du lac.
+03-P-1-4, quatre vieilles truies éléphantesques
+03-P-1-5, 5 puis moi fier et passionné.
+03-P-1-6, C'est zourcement domestiqué.
+03-P-2-1, Un cheval fou dans mon jardin.
+03-P-2-2, Deux ans d'agri au pelage brun.
+03-P-2-3, Trois signes aveugles au bord du lac.
+03-P-2-4, Quatre revient les trous éléphantesques!
+03-P-2-5, 5 Pimofia est passionné.
+03-P-2-6, Césurcement domestiqué.
+03-S-1-1, « Un cheval fou dans mon jardin? »
+03-S-1-2, Deux ans en écrit au pelage brun?
+03-S-1-3, « Trois signes aveugles au bord du lac ? »
+03-S-1-4, Quatre vieilles truies éléphantesques.
+03-S-1-5, « 5 puma fière et passionnée. »
+03-S-1-6," « C'est sûr, c'est ma domestiquée. »"
+03-S-2-1, « Un cheval fou dans mon jardin ? »
+03-S-2-2, Deux ans en aigri au pelage brun.
+03-S-2-3, « Trois signes aveugles au bord du lac ? »
+03-S-2-4, Quatre vieilles truies éléphantesques?
+03-S-2-5, 5 piments fiers et passionnés.
+03-S-2-6, Saisissement domestiqué
+03-T-1-1, Un cheval fou dans mon jardin.
+03-T-1-2, Deux ans d'ingrits au pelage brun.
+03-T-1-3, Trois signes à verglas au bord du lac.
+03-T-1-4, Quatre vieilles truies éléphantesques.
+03-T-1-5, 5 pumas fiers et passionnés.
+03-T-1-6, Césure s'est main domestiquée.
+03-T-2-1, Un cheval fou dans mon jardin !
+03-T-2-2, Deux ans d'ingrits au palage brun.
+03-T-2-3, Trois signes à veigle au bord du lac.
+03-T-2-4, Quatre vieilles truies éléphantesques.
+03-T-2-5, 5 plus inférieurs et passionnés.
+03-T-2-6, Césure s'aimant domestiquer.
+04-C-1-1, Un cheval fou dans mon jardin!
+04-C-1-2, Deux ans en aigris au pelage brun.
+04-C-1-3, Trois signes aveugles au bord du lac.
+04-C-1-4, Quatre vieilles truies éléphantesques !
+04-C-1-5, Cinq Pumas fiers et passionnés.
+04-C-1-6, Six ours aimant domestiquer.
+04-C-2-1, Un cheval fou dans mon jardin!
+04-C-2-2, Deux ânes aigris au pelage brun.
+04-C-2-3, Trois signes aveugles au bord du lac.
+04-C-2-4, 4 vieilles truies éléphantesques
+04-C-2-5," 5. Puma, fier et passionné."
+04-C-2-6, Six ours aimant domestiquer!
+04-D-1-1, Un cheval fou dans mon jardin.
+04-D-1-2, Deux ânes aigris au pelage brun.
+04-D-1-3, Trois signes avec au bord du lac.
+04-D-1-4, Quatre vieilles truies éléphantesques.
+04-D-1-5," 5 puma, fiers et passionnés."
+04-D-1-6, Six ours aimants domestiqués.
+04-D-2-1, Un cheval fou dans mon jardin!
+04-D-2-2, Deux armes aigries au pelage brun.
+04-D-2-3, Trois signes avec au bord du lac.
+04-D-2-4, Quatre vieilles truies éléphantesques!
+04-D-2-5, Cinq pumas fiers et passionnés.
+04-D-2-6, Six ours aimant domestiquer.
+04-J-1-1, Un cheval fou dans mon jardin!
+04-J-1-2, Deux armes aigries au pelage brun.
+04-J-1-3, Trois signes aveugles au bord du lac.
+04-J-1-4, Quatre vieilles truies éléphantesques.
+04-J-1-5," 5 puis moi, fière et passionnée !"
+04-J-1-6, Six ours aimant domestiquer.
+04-J-2-1, Un cheval fou dans mon jardin !
+04-J-2-2, Deux heures maigries au pelage brun.
+04-J-2-3, Trois signes aveugles au bord du lac.
+04-J-2-4, Quatre vieilles truies éléphantesques!
+04-J-2-5, Cinq pumas fiers et passionnés!
+04-J-2-6, Six ours aimant domestiquer!
+04-N-1-1, Un cheval fou dans mon jardin.
+04-N-1-2, Deux ânes aigris au pelage brun.
+04-N-1-3, Trois signes aveugles au bord du lac.
+04-N-1-4, Quatre vieilles truies éléphantesques.
+04-N-1-5, 5 Pumas fiers et passionnés
+04-N-1-6, 6 ours aimants domestiqués
+04-P-1-1, Un cheval fou dans mon jardin.
+04-P-1-2, Deux ânes et gris au pelage brun.
+04-P-1-3, Trois signes avec au bord du lac.
+04-P-1-4, Quatre vieilles truies éléphantesques !
+04-P-1-5," 5. Puma, fière et passionnée."
+04-P-1-6, Six ours aimant domestiquer.
+04-P-2-1, Un cheval fou dans mon jardin!
+04-P-2-2, Deux ans en aigri au pelage brun.
+04-P-2-3, Trois signes aveugles au bord du lac.
+04-P-2-4, Quatre vieilles truies éléphantesques!
+04-P-2-5, 5 piments fiers et passionnés !
+04-P-2-6," C'est Zors Emma, domestiquée !"
+04-S-1-1, Un cheval fou dans mon jardin!
+04-S-1-2, Deux ânes aigris au pelage brun.
+04-S-1-3, Trois signes aveugles au bord du lac.
+04-S-1-4, Quatre vieilles truies éléphantesques ?
+04-S-1-5," 5. Puma, fier et passionné"
+04-S-1-6, Six ours aimant domestiquer.
+04-S-2-1, « Un cheval fou dans mon jardin? »
+04-S-2-2, « Deux ans negris au pelage brun? »
+04-S-2-3, Trois signes aveugles au bord du lac.
+04-S-2-4, Quatre vieilles truies éléphantesques !
+04-S-2-5," 5. Puma, fier et passionné."
+04-S-2-6, Six ours aimants domestiqués!
+04-T-1-1, Un cheval fou dans mon jardin.
+04-T-1-2, Deux âmes aigries au pelage brun.
+04-T-1-3, Trois signes avec au bord du lac.
+04-T-1-4," Quatre vieilles truies, éléphantesques."
+04-T-1-5," 5. Puma, fier et passionné."
+04-T-1-6, Six ours et main domestiquée.
+04-T-2-1, Un cheval fou dans mon jardin.
+04-T-2-2, Deux armes aigries au pelage brun.
+04-T-2-3, Trois signes avec au bord du lac.
+04-T-2-4, Qu'est-ce que c'est que ça ?
+04-T-2-5, 5 Pumas fiers et passionnés!
+04-T-2-6, Six ours et main domestiquée !
+05-C-1-1, Un cheval fou dans mon jardin !
+05-C-1-2, Deux ânes aigris au pelage brun.
+05-C-1-3, Trois signes aveugles au bord du lac.
+05-C-1-4, Quatre vieilles truies éléphantesques.
+05-C-1-5, 5 puma fiers et passionnés
+05-C-1-6, Six ours aimant domestiquer.
+05-C-2-1, Un cheval fou dans mon jardin !
+05-C-2-2, Deux ânes aigris au pelage brun
+05-C-2-3, Trois signes aveugles au bord du lac.
+05-C-2-4, Quatre vieilles truies éléphantesques !
+05-C-2-5, 5 Puma fiers et passionnés !
+05-C-2-6, Six ours aimants domestiqués.
+05-D-1-1, Un cheval fou dans mon jardin !
+05-D-1-2, deux ânes gris au pelage brun
+05-D-1-3, Trois signes aveugles au bord du lac ?
+05-D-1-4, Quatre vieilles truies éléphantesques !
+05-D-1-5, Cinq pumas fiers et passionnés.
+05-D-1-6, Six ours aimants domestiqués ?
+05-D-2-1, Un cheval fou dans mon jardin !
+05-D-2-2, Deux années gris au pelage brun !
+05-D-2-3, « Trois signes aveugles au bord du lac ! »
+05-D-2-4, Quatre vieilles truies éléphantesques !
+05-D-2-5, « Cinq puma fiers et passionnés ! »
+05-D-2-6, Six ours aimants domestiqués !
+05-J-1-1, « Un cheval fou dans mon jardin ! »
+05-J-1-2, « Deux ânes aigris au pelage brun ! »
+05-J-1-3, Trois cygnes aveugles au bord du lac.
+05-J-1-4, Quatre vieilles truies éléphantesques !
+05-J-1-5, Cinq pumas fiers et passionnés !
+05-J-1-6, « C'est zoursément domestiqué ! »
+05-J-2-1, Un cheval fou dans mon jardin !
+05-J-2-2, Deux ânes aigris au pelage brun.
+05-J-2-3, Trois signes aveugles au bord du lac !
+05-J-2-4, Quatre vieilles truies éléphantesques !
+05-J-2-5, Cinq pumas fiers et passionnés !
+05-J-2-6, Six ours aimants domestiqués !
+05-N-1-1, Un cheval fou dans mon jardin.
+05-N-1-2, Deux ânes aigris au pelage brun.
+05-N-1-3, Trois signes aveugles au bord du lac.
+05-N-1-4, Quatre vieilles truies éléphantesques.
+05-N-1-5, Cinq pumas fiers et passionnés.
+05-N-1-6, Six ours aimants domestiqués.
+05-P-1-1, Un cheval fou dans mon jardin !
+05-P-1-2, Deux années gris au pelage brun !
+05-P-1-3, Trois signes aveugles au bord du lac ?
+05-P-1-4, Quatre vieilles truies éléphantesques !
+05-P-1-5, Cinq pumas fiers et passionnés !
+05-P-1-6, « C'est sourcement domestiqué ! »
+05-P-2-1, Un cheval fou dans mon jardin !
+05-P-2-2, Deux ânes aigris au pelage brun !
+05-P-2-3, Trois cygnes aveugles au bord du lac !
+05-P-2-4, « Quatre vieilles truies éléphantesques ! »
+05-P-2-5, Cinq pumas fiers et passionnés !
+05-P-2-6, Six ours aimants domestiqués !
+05-S-1-1, Un cheval fou dans mon jardin ?
+05-S-1-2, Deux ânes aigris au pelage brun ?
+05-S-1-3, Trois signes aveugles au bord du lac ?
+05-S-1-4, Quatre vieilles truies éléphantesques ?
+05-S-1-5, « Cinq puma fière et passionnée ! »
+05-S-1-6, « Six ours aimants domestiqués ? »
+05-S-2-1, Un cheval fou dans mon jardin !
+05-S-2-2, Deux ânes aigris au pelage brun ?
+05-S-2-3, Trois signes aveugles au bord du lac ?
+05-S-2-4, Quatre vieilles truies éléphantesques ?
+05-S-2-5, Cinq Pumas fiers et passionnés !
+05-S-2-6, « Six ours aimant domestiquer ? »
+05-T-1-1, Un cheval fou dans mon jardin !
+05-T-1-2, Deux ânes aigris au pelage brun.
+05-T-1-3, Trois cygnes aveugles au bord du lac.
+05-T-1-4, Quatre vieilles truies éléphantesques !
+05-T-1-5, Cinq pumas fiers et passionnés.
+05-T-1-6, « Ces ours aimant domestiquer. »
+05-T-2-1, Un cheval fou dans mon jardin !
+05-T-2-2, Deux ânes aigris au pelage brun.
+05-T-2-3, Trois cygnes aveugles au bord du lac !
+05-T-2-4, Quatre vieilles truies éléphantesques !
+05-T-2-5, Cinq pumas fiers et passionnés !
+05-T-2-6, Six ours aimants domestiqués !
+06-C-1-1, Un cheval fou dans mon jardin !
+06-C-1-2, Deux ans en aigris au pelage brun.
+06-C-1-3, Trois signes aveugles au bord du lac.
+06-C-1-4, Quatre vieilles truies éléphantesques.
+06-C-1-5," 5. Puma, fier et passionné."
+06-C-1-6, Ces ours aimant domestiquer.
+06-C-2-1, Un cheval fou dans mon jardin!
+06-C-2-2, Deux âmes aigries au pelage brun.
+06-C-2-3, Trois signes aveugles au bord du lac.
+06-C-2-4, Quatre vieilles truies éléphantesques !
+06-C-2-5," 5 puma, fiers et passionnés!"
+06-C-2-6, Ces ours aimant domestiquer !
+06-D-1-1, « Un cheval fou dans mon jardin ! »
+06-D-1-2, deux années gris au pelage brun
+06-D-1-3, Trois signes aveugles au bord du lac.
+06-D-1-4, Quatre vieilles truies éléphantesques !
+06-D-1-5, Cinq pumas fiers et passionnés.
+06-D-1-6, Cisourcement domestiqué !
+06-D-2-1, Un cheval fou dans mon jardin !
+06-D-2-2, « Deux ans en aigri au pelage brun ! »
+06-D-2-3, « Trois signes aveugles au bord du lac ? »
+06-D-2-4, Quatre vieilles truies éléphantesques !
+06-D-2-5, Cinq pumeurs fières et passionnées !
+06-D-2-6, Ces ours aimants domestiqués !
+06-J-1-1, Un cheval fou dans mon jardin.
+06-J-1-2, Deux ans négri au pelage brun.
+06-J-1-3, Trois signes aveugles au bord du lac.
+06-J-1-4, Quatre vieilles truies éléphantesques.
+06-J-1-5, 5 Pumas fiers et passionnés.
+06-J-1-6, 6 ours et mains domestiquées
+06-J-2-1, Un cheval fou dans mon jardin!
+06-J-2-2, Deux ânes aigris au pelage brun
+06-J-2-3, Trois signes aveugles au bord du lac.
+06-J-2-4, Quatre vieilles truies éléphantesques!
+06-J-2-5," 5. Puma, fier et passionné."
+06-J-2-6, 6 ours aimants domestiqués !
+06-N-1-1, Un cheval fou dans mon jardin.
+06-N-1-2, Deux ânes aigris au pelage brun.
+06-N-1-3, Trois signes aveugles au bord du lac.
+06-N-1-4, Quatre vieilles truies éléphantesques.
+06-N-1-5, 5 piments fiers et passionnés.
+06-N-1-6, Sous-titrage Société Radio-Canada
+06-P-1-1, Un cheval fou dans mon jardin ?
+06-P-1-2, Deux ânes aigris au pelage brun ?
+06-P-1-3, Trois signes aveugles au bord du lac.
+06-P-1-4, Quatre vieilles truies éléphantesques !
+06-P-1-5, Cinq pumas fiers et passionnés.
+06-P-1-6, Ces ours aimants domestiqués !
+06-P-2-1, Un cheval fou dans mon jardin !
+06-P-2-2, Deux ans d'aigris au pelage brun
+06-P-2-3, Trois signes aveugles au bord du lac.
+06-P-2-4, Quatre vieilles trouées éléphantesques !
+06-P-2-5, Cinq puma fiers et passionnés !
+06-P-2-6, Ces ours aimants domestiqués !
+06-S-1-1, Un cheval fou dans mon jardin?
+06-S-1-2, Deux ânes aigris au pelage brun.
+06-S-1-3, Trois signes aveugles au bord du lac ?
+06-S-1-4, Quatre vieilles truies éléphantesques ?
+06-S-1-5, Cinq pumas fiers et passionnés.
+06-S-1-6," Six ours, Emma, domestiqués ?"
+06-S-2-1, « Un cheval fou dans mon jardin ? »
+06-S-2-2, « Deux âmes aigrées au pelage brun ? »
+06-S-2-3, Trois signes aveugles au bord du lac ?
+06-S-2-4, Quatre vieilles truies éléphantesques !
+06-S-2-5, Cinq pumas fiers et passionnés!
+06-S-2-6, Ces ours aimants domestiqués !
+06-T-1-1, Un cheval fou dans mon jardin.
+06-T-1-2, Deux ans négri au pelage brun.
+06-T-1-3, Trois signes aveugles au bord du lac.
+06-T-1-4, Quatre vieilles truies éléphantesques.
+06-T-1-5, Cinq pumas fiers et passionnés.
+06-T-1-6, CISOURCEMENT DOMESTIQUÉ
+06-T-2-1, Un cheval fou dans mon jardin !
+06-T-2-2, Deux armes grises au pelage brun
+06-T-2-3, Trois signes aveugles au bord du lac.
+06-T-2-4, Quatre vieilles truies éléphantesques !
+06-T-2-5, Cinq puma fiers et passionnés !
+06-T-2-6, Six ours et main domestiqués !
+07-C-1-1, « Un cheval fou dans mon jardin ! »
+07-C-1-2, Deux ans négri au pelage brun.
+07-C-1-3, Trois signes aveugles au bord du lac.
+07-C-1-4, Quatre vieilles truies éléphantesques.
+07-C-1-5, 5 Pumas fiers et passionnés
+07-C-1-6, Cisure s'est mal domestiquée.
+07-C-2-1, Un cheval fou dans mon jardin !
+07-C-2-2, Deux ans en aigris au pelage brun.
+07-C-2-3, Trois signes aveugles au bord du lac.
+07-C-2-4, Quatre vieilles truies éléphantesques.
+07-C-2-5, 5 Pumas fiers et passionnés
+07-C-2-6, Cisours aimant domestiquer.
+07-D-1-1, Un cheval fou dans mon jardin ?
+07-D-1-2, Deux ans négri au pelage brun.
+07-D-1-3, Trois signes aveugles au bord du lac ?
+07-D-1-4, Quatre vieilles truies éléphantesques !
+07-D-1-5, Cinq pumas fiers et passionnés
+07-D-1-6, Ces ours aimants domestiqués.
+07-D-2-1, Un cheval fou dans mon jardin?
+07-D-2-2, Deux ans en aigris au pelage brun.
+07-D-2-3, Trois signes aveugles au bord du lac.
+07-D-2-4, quatre vieilles truies éléphantesques
+07-D-2-5, 5 Puma fiers et passionnés.
+07-D-2-6, « Six ours aimants domestiqués. »
+07-J-1-1, Un cheval fou dans mon jardin.
+07-J-1-2, Deux ornes aigrées au pelage brun.
+07-J-1-3, Trois signes aveugles au bord du lac.
+07-J-1-4, Quatre vieilles truies éléphantesques
+07-J-1-5, 5 Pumas fiers et passionnés.
+07-J-1-6, 6 ours aimants domestiqués
+07-J-2-1, Un cheval fou dans mon jardin!
+07-J-2-2, Deux ânes et gris au pelage brun.
+07-J-2-3, Trois signes aveugles au bord du lac.
+07-J-2-4, Quatre vieilles truies éléphantesques.
+07-J-2-5, Cinq pumas fiers et passionnés.
+07-J-2-6, Saisissement domestiqué
+07-N-1-1, Un cheval fou dans mon jardin.
+07-N-1-2, Deux ornées grises au pelage brun.
+07-N-1-3, Trois signes aveugles au bord du lac.
+07-N-1-4, Quatre vieilles truies éléphantesques
+07-N-1-5, Cinq pumas fiers et passionnés.
+07-N-1-6, Cisurcement domestiqué
+07-P-1-1, Un cheval fou dans mon jardin.
+07-P-1-2, Deux ânes et gris au pelage brun.
+07-P-1-3, Trois signes aveugles au bord du lac.
+07-P-1-4, quatre vieilles truies
+07-P-1-5, Cinq pumas fiers et passionnés.
+07-P-1-6, si zurement domestiqués.
+07-P-2-1, « Un cheval fou dans mon jardin ! »
+07-P-2-2, « Deux ans négriers au pelage brun ? »
+07-P-2-3, Trois signes aveugles au bord du lac.
+07-P-2-4, quatre vieilles truies éléphantesques
+07-P-2-5," 5 puma, fiers et passionnés."
+07-P-2-6, Six ours aimants domestiqués.
+07-S-1-1, « Un cheval fou dans mon jardin? »
+07-S-1-2, Deux ans en aigris au pelage brun ?
+07-S-1-3, « Trois signes aveugles au bord du lac? »
+07-S-1-4, quatre vieilles truies éléphantesques
+07-S-1-5, Cinq pumas fiers et passionnés.
+07-S-1-6, Six ours aimants domestiqués ?
+07-S-2-1, « Un cheval fou dans mon jardin? »
+07-S-2-2, Deux zones aigries au pelage brun ?
+07-S-2-3, Trois signes aveugles au bord du lac ?
+07-S-2-4, Quatre vieilles truies éléphantesques?
+07-S-2-5, Cinq pumas fiers et passionnés.
+07-S-2-6, Six ours aimants domestiqués ?
+07-T-1-1, Un cheval fou dans mon jardin.
+07-T-1-2, Deux ornes gris au pelage brun.
+07-T-1-3, Trois signes aveugles au bord du lac.
+07-T-1-4, Quatre vieilles truies éléphantesques.
+07-T-1-5, 5 Pumas fiers et passionnés.
+07-T-1-6, Saisissement domestiqué
+07-T-2-1, Un cheval fou dans mon jardin.
+07-T-2-2, Deux ans de gris au pelage brun.
+07-T-2-3, Trois signes aveugles au bord du lac.
+07-T-2-4, Quatre vieilles truies éléphantesques.
+07-T-2-5," 5 plus bas, Pierre est passionné."
+07-T-2-6, Césurcement domestiqué.
+08-C-1-1, Un cheval fou dans mon jardin.
+08-C-1-2, Deux ans d'aigris au pelage brun.
+08-C-1-3, Trois signes aveugles au bord du lac.
+08-C-1-4, Quatre vieilles truies éléphantesques !
+08-C-1-5, 5 Pumas fiers et passionnés.
+08-C-1-6, C'est sur s'aimer à domestiquer.
+08-C-2-1, Un cheval fou dans mon jardin!
+08-C-2-2, Deux ans en aigri au pelage brun
+08-C-2-3, Trois signes aveugles au bord du lac.
+08-C-2-4, Quatre vieilles truies éléphantesques!
+08-C-2-5, 5 pumaurs fiers et passionnés.
+08-C-2-6, C'est sourcément domestiqué!
+08-D-1-1, Un cheval fou dans mon jardin?
+08-D-1-2, Deux ans en aigri au pelage brun.
+08-D-1-3, Trois signes aveugles au bord du lac.
+08-D-1-4, Quatre vieilles truies éléphantesques.
+08-D-1-5, 5 Pumafières est passionné.
+08-D-1-6, Saisisseurs sémains domestiqués
+08-D-2-1, Un cheval fou dans mon jardin.
+08-D-2-2, Deux ans en aigri au pelage brun.
+08-D-2-3, Trois signes aveugles au bord du lac.
+08-D-2-4, Quatre vieilles truies éléphantesques!
+08-D-2-5, 5 Puma fiers et passionnés.
+08-D-2-6, Saisir ses mains domestiquées.
+08-J-1-1, Un cheval fou dans mon jardin.
+08-J-1-2, Deux ânes aigris au pelage brun.
+08-J-1-3, Trois signes aveugles au bord du lac.
+08-J-1-4, Quatre vieilles truies éléphantesques.
+08-J-1-5, 5 plus maufières et passionnées.
+08-J-1-6, C'est zourcellement domestiqué.
+08-J-2-1, Un cheval fou dans mon jardin!
+08-J-2-2, Deux en aigris au pelage brun.
+08-J-2-3, Trois signes aveugles au bord du lac.
+08-J-2-4, Quatre vieilles truies éléphantesques!
+08-J-2-5, 5 piments fiers et passionnés!
+08-J-2-6, Ces ours aimants domestiqués!
+08-N-1-1, Un cheval fou dans mon jardin.
+08-N-1-2, Deux ânes aigris au pelage brun.
+08-N-1-3, Trois signes aveugles au bord du lac.
+08-N-1-4, Quatre vieilles truies éléphantesques
+08-N-1-5, 5 pumeaux fiers et passionnés.
+08-N-1-6, Saisisseurs s'aimant domestiqués
+08-P-1-1, Un cheval fou dans mon jardin?
+08-P-1-2, Deux ans en aigris au pelage brun.
+08-P-1-3, Trois signes aveugles au bord du lac.
+08-P-1-4, Quatre vieilles truies éléphantesques ?
+08-P-1-5, 5 Pumafières est passionné.
+08-P-1-6, Ces ours aimants domestiqués?
+08-P-2-1, Un cheval fou dans mon jardin ?
+08-P-2-2, Deux ans en aigri au pelage brun?
+08-P-2-3, Trois signes aveugles au bord du lac?
+08-P-2-4, « Quatre vieilles truies éléphantesques ! »
+08-P-2-5, Sinc' pis ma fière est passionnée.
+08-P-2-6, « Ces ours aimants domestiqués ! »
+08-S-1-1, « Un cheval fou dans mon jardin? »
+08-S-1-2, Deux en aigris au pelage brun.
+08-S-1-3, Trois signes aveugles au bord du lac?
+08-S-1-4, Quatre vieilles truies éléphantesques?
+08-S-1-5, 5 pumas fiers et passionnés
+08-S-1-6, Saisir ses mains domestiquées.
+08-S-2-1, Un cheval fou dans mon jardin?
+08-S-2-2, Nous en aigris au pelage brun?
+08-S-2-3, Trois signes aveugles au bord du lac?
+08-S-2-4, Quatre vieilles truies éléphantesques?
+08-S-2-5, 5 Puma fière et passionnée
+08-S-2-6, Ces ours aimants domestiqués!
+08-T-1-1, Un cheval fou dans mon jardin?
+08-T-1-2, Deux ans en aigris au pelage brun.
+08-T-1-3, Trois signes aveugles au bord du lac.
+08-T-1-4, Quatre vieilles truies éléphantesques!
+08-T-1-5, Tu sens que tu m'as fière et passionnée?
+08-T-1-6, Six ours aimants domestiqués.
+08-T-2-1, Un cheval fou dans mon jardin!
+08-T-2-2, Deux ans en aigri au pelage brun.
+08-T-2-3, Trois signes aveugles au bord du lac.
+08-T-2-4, Quatre vieilles truies éléphantesques!
+08-T-2-5, 5 puma fiers et passionnés!
+08-T-2-6," C'est dur, c'est mal domestiqué."
+09-C-1-1, Un cheval fou dans mon jardin!
+09-C-1-2, Deux ans négri au pelage brun.
+09-C-1-3, Trois signes aveugles au bord du lac.
+09-C-1-4, Quatre vieilles truies éléphantesques !
+09-C-1-5, 5 Puma fiers et passionnés.
+09-C-1-6, Cisurcement domestiqué!
+09-C-2-1, Un cheval fou dans mon jardin !
+09-C-2-2, Deux années grises au pelage brun !
+09-C-2-3, Trois signes aveugles au bord du lac.
+09-C-2-4, Quatre vieilles trouées éléphantesques!
+09-C-2-5, 5 Pumas fiers et passionnés!
+09-C-2-6, Cisours aimant domestiquer!
+09-D-1-1, Un cheval fou dans mon jardin.
+09-D-1-2, Deux ans en aigris au pelage brun.
+09-D-1-3, Trois signes aveugles au bord du lac.
+09-D-1-4, Quatre vieilles tuyées éléphantesques!
+09-D-1-5, Cinq pumas fiers et passionnés.
+09-D-1-6," C'est dur, c'est mal domestiqué !"
+09-D-2-1, Un cheval fou dans mon jardin!
+09-D-2-2, Deux ânes aigris au pelage brun.
+09-D-2-3, Trois signes aveugles au bord du lac.
+09-D-2-4, Quatre vieilles truies éléphantesques!
+09-D-2-5, 5 puis moi fier et passionné !
+09-D-2-6, Si durcement domestiqué !
+09-J-1-1, « Un cheval fou dans mon jardin ! »
+09-J-1-2, Deux années gris au pelage brun.
+09-J-1-3, Trois signes aveugles au bord du lac.
+09-J-1-4, Quatre vieilles truies éléphantesques.
+09-J-1-5, Cinq pumas fiers et passionnés.
+09-J-1-6, C'est dur seulement à domestiquer.
+09-J-2-1, Un cheval fou dans mon jardin !
+09-J-2-2, Deux ans négri au pelage brun.
+09-J-2-3, Trois signes aveugles au bord du lac.
+09-J-2-4, Quatre vieilles truies éléphantesques.
+09-J-2-5, 5 pumas fiers et passionnés.
+09-J-2-6, Si zourcement domestiqué !
+09-N-1-1, Un cheval fou d'un monjardin.
+09-N-1-2, Deux ânes aigris au pelage brun.
+09-N-1-3, Trois signes aveugles au bord du lac.
+09-N-1-4, Quatre vieilles truies éléphantesques.
+09-N-1-5, 5 plus moi fier et passionné.
+09-N-1-6, Ses ours aimants domestiqués.
+09-P-1-1, Un cheval fou dans mon jardin ?
+09-P-1-2, « Teusanne est gris au pelage brun. »
+09-P-1-3, Trois signes aveugles au bord du lac?
+09-P-1-4, Qu'advient-t-il du fentesque ?
+09-P-1-5, 5 puis moi fier et passionné.
+09-P-1-6, « Six ours aimants domestiqués ? »
+09-P-2-1, Un cheval fou dans mon jardin !
+09-P-2-2, Deux ennigris au pelage brun !
+09-P-2-3, Trois signes aveugles au bord du lac.
+09-P-2-4, Quatre vieilles truies éléphantesques !
+09-P-2-5, 5 plus mon fier est passionné.
+09-P-2-6, Ciseaux sémets domestiqués !
+09-S-1-1, « Un cheval fou dans mon jardin ? »
+09-S-1-2, Deux ans négri au pelage brun ?
+09-S-1-3, « Trois signes aveugles au bord du lac? »
+09-S-1-4, Quatre vieilles truies éléphantesques ?
+09-S-1-5, Cinq piments fiers et passionnés.
+09-S-1-6, Six ours aimants domestiqués.
+09-S-2-1, « Un cheval fou dans mon jardin! »
+09-S-2-2, Deux ans en aigris au pelage brun!
+09-S-2-3, Trois signes aveugles au bord du lac?
+09-S-2-4," Qu'elle devient truée, éléphantesque !"
+09-S-2-5, Cinq pumas fiers et passionnés!
+09-S-2-6, « Six ours aimant domestiquer ! »
+09-T-1-1, Un cheval fou dans mon jardin.
+09-T-1-2, Deux années grillées au polage brun
+09-T-1-3, Trois signes aveugles au bord du lac.
+09-T-1-4, Qu'être vieille tu es éléphantesque !
+09-T-1-5, Cinq puits moins fiers et passionnés.
+09-T-1-6, Ces ours aimaient domestiquer.
+09-T-2-1, « Un cheval fou dans mon jardin ! »
+09-T-2-2," Deux années qui n'ont pas l'âge, bah..."
+09-T-2-3, « Trois signes aveugles au bord du lac. »
+09-T-2-4, Quatre vieilles touilles éléphantesques !
+09-T-2-5, 5 Pumas fiers et passionnés.
+09-T-2-6, Six jours seulement domestiqués.
+10-C-1-1, Un cheval fou dans mon jardin!
+10-C-1-2, Deux ans aigris au pelage brun.
+10-C-1-3, Trois cygnes aveugles au bord du lac.
+10-C-1-4, Quatre vieilles truies éléphantesques !
+10-C-1-5, Cinq puma fière et passionnée !
+10-C-1-6, Ces ours aimants domestiqués.
+10-C-2-1, Un cheval fou dans mon jardin !
+10-C-2-2, Deux en aigris au pelage brun !
+10-C-2-3, Trois signes aveugles au bord du lac ?
+10-C-2-4, Quatre vieilles truies éléphantesques !
+10-C-2-5, Cinq pumeaux fiers et passionnés !
+10-C-2-6, C'est sourcement domestiqué !
+10-D-1-1, Un cheval fou dans mon jardin?
+10-D-1-2, Deux ans négri au pelage brun.
+10-D-1-3, Trois signes aveugles au bord du lac.
+10-D-1-4, Quatre vieilles truies éléphantesques.
+10-D-1-5, Cinq pumas fiers et passionnés.
+10-D-1-6, Ces ours aimants domestiqués.
+10-D-2-1, Un cheval fou dans mon jardin!
+10-D-2-2, Deux ans aigris au pelage brun !
+10-D-2-3, Trois signes aveugles au bord du lac.
+10-D-2-4, Quatre vieilles truies éléphantesques !
+10-D-2-5, Cinq pumeaux fiers et passionnés !
+10-D-2-6, Ces ours aimants domestiqués !
+10-J-1-1, Un cheval fou dans mon jardin !
+10-J-1-2, Deux ans aigris au palage brun.
+10-J-1-3, Trois signes aveugles au bord du lac.
+10-J-1-4, Quatre vieilles truies éléphantesques
+10-J-1-5," 5 puma, fiers et passionnés!"
+10-J-1-6, Six ours aimant domestiquer.
+10-J-2-1, Un cheval fou dans mon jardin !
+10-J-2-2, Deux ans aigris au pelage brun!
+10-J-2-3, Trois signes aveugles au bord du lac.
+10-J-2-4, Quatre vieilles truies éléphantesques !
+10-J-2-5, Cinq pumeaux fiers et passionnés !
+10-J-2-6," Ces ours aimants, domestiqués !"
+10-N-1-1, Un cheval fou dans mon jardin.
+10-N-1-2, Deux ânes aigris au pelage brun.
+10-N-1-3, Trois signes aveugles au bord du lac.
+10-N-1-4, Quatre vieilles truies éléphantesques
+10-N-1-5, Cinq pumas fiers et passionnés.
+10-N-1-6, Ces ours aimants domestiqués.
+10-P-1-1, un cheval fou dans mon jardin
+10-P-1-2, Deux ânes aigris au pelage brun ?
+10-P-1-3, Trois signes aveugles au bord du lac !
+10-P-1-4, Quatre vieilles truies éléphantesques !
+10-P-1-5, Cinq puma fière et passionnée !
+10-P-1-6, Ces ours aimant domestiquer !
+10-P-2-1, Un cheval fou dans mon jardin !
+10-P-2-2," Deux ans négri, au pelage brun."
+10-P-2-3, Trois cygnes aveugles au bord du lac.
+10-P-2-4, Quatre vieilles truies et les fontesques !
+10-P-2-5, Cinq pumeaux fiers et passionnés !
+10-P-2-6, Ces ours aimants domestiqués !
+10-S-1-1, Un cheval fou dans mon jardin?
+10-S-1-2, Deux ans aigris au pelage brun.
+10-S-1-3, Trois signes aveugles au bord du lac ?
+10-S-1-4, Quatre vieilles truies éléphantesques !
+10-S-1-5, Simplement fier et passionné!
+10-S-1-6, 6 ours aimants domestiqués
+10-S-2-1, Un cheval fou dans mon jardin ?
+10-S-2-2, Deux ans aigris au pelage brun.
+10-S-2-3," Trois signes, aveugles, au bord du lac."
+10-S-2-4, Quatre vieilles truies éléphantesques !
+10-S-2-5, 5 Pumas fiers et passionnés!
+10-S-2-6," Ces ours aimants, domestiqués !"
+10-T-1-1, Un cheval fou dans mon jardin.
+10-T-1-2, deux ans négri au pelage brun
+10-T-1-3, Trois signes aveugles au bord du lac ?
+10-T-1-4," Quatre vieilles truies, éléphantesques."
+10-T-1-5, Cinq puma fiers et passionnés.
+10-T-1-6, « C'est sourcément domestiqué. »
+10-T-2-1, Un cheval fou dans mon jardin !
+10-T-2-2, Deux ans en aiguillerie au pelage brun
+10-T-2-3, Trois signes aveugles au bord du lac.
+10-T-2-4, Quatre vieilles truies éléphantesques !
+10-T-2-5, 5 piments fiers et passionnés.
+10-T-2-6, Ces ours aimant domestiquer !
+11-C-1-1, Un cheval fou dans mon jardin !
+11-C-1-2, deux ans négri au pelage brun
+11-C-1-3, Trois signes aveugles au bord du lac.
+11-C-1-4, Quatre vieilles truies éléphantesques.
+11-C-1-5, 5. Puma. Fier et passionné.
+11-C-1-6, « C'est zourcement domestiqué ! »
+11-C-2-1, Un cheval fou dans mon jardin !
+11-C-2-2, Deux années grises au pelage brun
+11-C-2-3, Trois signes aveugles au bord du lac.
+11-C-2-4, Qu'à de vieilles truies éléphantesques!
+11-C-2-5," 5 Puma, fiers et passionnés!"
+11-C-2-6, C'est ursément domestiqué !
+11-D-1-1, Un cheval fou dans mon jardin!
+11-D-1-2, Deux ans négriers au pelage brun.
+11-D-1-3, Trois signes aveugles au bord du lac.
+11-D-1-4," Qu'advient-t-rui, éléphantesque ?"
+11-D-1-5, cinq pus moi fier et passionné
+11-D-1-6, Ces ours aimants domestiqués.
+11-D-2-1, Un cheval fou dans mon jardin!
+11-D-2-2, Deux ans négri au pelage brun.
+11-D-2-3," Trois signes, aveugle au bord du lac."
+11-D-2-4, Quatre vieilles truies éléphantesques.
+11-D-2-5, Cinq piments fiers et passionnés.
+11-D-2-6, Ces ours aimant domestiquer.
+11-J-1-1, Un cheval fou dans mon jardin!
+11-J-1-2, Deux années gris au pelage brun.
+11-J-1-3, Trois cygnes aveugles au bord du lac.
+11-J-1-4, Quatre vieilles truies éléphantesques !
+11-J-1-5," Cinq pumas, fiers et passionnés!"
+11-J-1-6, Ces ours aimant domestiquer !
+11-J-2-1, Un cheval fou dans mon jardin !
+11-J-2-2, Deux années grises au pelage brun
+11-J-2-3, Trois sing-a-buts au bord du lac!
+11-J-2-4, Quatre vieilles truies éléphantesques !
+11-J-2-5, 5 piments fiers et passionnés !
+11-J-2-6," Si jour c'est mort, domestiquez !"
+11-N-1-1, Un cheval fou dans mon jardin.
+11-N-1-2, Deux années gris au pelage brun.
+11-N-1-3, Trois signes aveugles au bord du lac.
+11-N-1-4, Quatre vieilles truies éléphantesques
+11-N-1-5, 5 pumas fiers et passionnés
+11-N-1-6, Césur s'aimant domestiqué
+11-P-1-1, Un cheval fou dans mon jardin !
+11-P-1-2," Deux années grises, au pelage brun."
+11-P-1-3, Trois signes aveugles au bord du lac.
+11-P-1-4," Quatre vieilles truies, éléphantesques !"
+11-P-1-5, 5. Puma Fier et passionné.
+11-P-1-6, Ces ours et mains domestiquées !
+11-P-2-1, Ah ! Ah ! Cheval fou dans mon jardin !
+11-P-2-2, Deux années gris au pelage brun.
+11-P-2-3, « Trois signes aveugles au bord du lac ! »
+11-P-2-4, Qu'un bien truil et fantaisque !
+11-P-2-5, « Sale puma ! Fière et passionnée ! »
+11-P-2-6, C'est sourcement domestiqué !
+11-S-1-1, Un cheval fou dans mon jardin ?
+11-S-1-2, « Des ennuis gris au pelage brun ? »
+11-S-1-3, Trois signes aveugles au bord du lac.
+11-S-1-4, Quatre vieilles truies éléphantesques ?
+11-S-1-5," 5 puma, fiers et passionnés."
+11-S-1-6, C'est heureusement domestiqué !
+11-S-2-1, Un cheval fou dans mon jardin ?
+11-S-2-2, « Deux ans négriers au pelage brun ? »
+11-S-2-3, trois signes aveugles au bord du lac
+11-S-2-4, Quatre vieilles truies éléphantesques !
+11-S-2-5," 5 Pumas, fiers et passionnés!"
+11-S-2-6, « C'est zoursément domestiqué ! »
+11-T-1-1, Un cheval fou dans mon jardin.
+11-T-1-2, Deux années grises au pelage brun.
+11-T-1-3, Trois signes aveugles au bord du lac.
+11-T-1-4," Quatre vieilles truies, éléphantesques."
+11-T-1-5," 5 Puma, fiers et passionnés."
+11-T-1-6, six ours aimants domestiqués
+11-T-2-1, Un cheval fou dans mon jardin.
+11-T-2-2, Deux années grises au pelage brun.
+11-T-2-3, Trois signes aveugles au bord du lac.
+11-T-2-4," Qu'un vieil truie, éléphantesque !"
+11-T-2-5," Cinq pubas, fiers et passionnés."
+11-T-2-6," Ces ours, Emma, domestiqués !"
+12-C-1-1, Un cheval fou dans mon jardin.
+12-C-1-2, Deux ânes aigris au pelage brun.
+12-C-1-3, Trois signes aveugles au bord du lac.
+12-C-1-4, Quatre vieilles truies éléphantesques !
+12-C-1-5, Cinq pumas fiers et passionnés.
+12-C-1-6, Six ours aimants domestiqués.
+12-C-2-1, Un cheval fou dans mon jardin !
+12-C-2-2, Deux ânes aigris au pelage brun.
+12-C-2-3, Trois signes aveugles au bord du lac !
+12-C-2-4, Quatre vieilles truies éléphantesques !
+12-C-2-5, Cinq pumas fiers et passionnés !
+12-C-2-6, Six ours aimants domestiqués !
+12-D-1-1, « Un cheval fou dans mon jardin ! »
+12-D-1-2, Deux ânes aigris au pelage brun.
+12-D-1-3, Trois signes aveugles au bord du lac.
+12-D-1-4, Quatre vieilles truies éléphantesques !
+12-D-1-5, Cinq pumas fiers et passionnés.
+12-D-1-6, Six ours aimant domestiquer.
+12-D-2-1, Un cheval fou dans mon jardin !
+12-D-2-2, Deux ânes aigris au pelage brun !
+12-D-2-3, Trois signes aveugles au bord du lac !
+12-D-2-4, Quatre vieilles truies éléphantesques !
+12-D-2-5, Cinq Puma fiers et passionnés !
+12-D-2-6, Six ours aimants domestiqués !
+12-J-1-1, Un cheval fou dans mon jardin.
+12-J-1-2, « Deux ânes aigris au pelage brun ? »
+12-J-1-3, Trois signes aveugles au bord du lac.
+12-J-1-4, Quatre vieilles truies éléphantesques.
+12-J-1-5, Cinq pumas fiers et passionnés !
+12-J-1-6, Six ours aimants domestiqués.
+12-J-2-1, Un cheval fou dans mon jardin !
+12-J-2-2, Deux ânes aigris au pelage brun !
+12-J-2-3, Trois signes aveugles au bord du lac !
+12-J-2-4, Quatre vieilles truies éléphantesques !
+12-J-2-5, 5 Pumas fiers et passionnés !
+12-J-2-6, Six ours aimants domestiqués !
+12-N-1-1, Un cheval fou dans mon jardin.
+12-N-1-2, Deux ânes aigris au pelage brun.
+12-N-1-3, Trois signes aveugles au bord du lac.
+12-N-1-4, Quatre vieilles truies éléphantesques.
+12-N-1-5, 5. Puma fier et passionné.
+12-N-1-6, Six ours aimants domestiqués.
+12-P-1-1, Un cheval fou dans mon jardin ?
+12-P-1-2, Deux ânes aigris au pelage brun ?
+12-P-1-3, Trois signes aveugles au bord du lac.
+12-P-1-4, Quatre vieilles truies éléphantesques !
+12-P-1-5, Cinq pumas fiers et passionnés !
+12-P-1-6, Six ours aimants domestiqués !
+12-P-2-1, Un cheval fou dans mon jardin !
+12-P-2-2, Deux ânes aigris au pelage brun.
+12-P-2-3, Trois signes aveugles au bord du lac !
+12-P-2-4, Quatre vieilles truies éléphantesques !
+12-P-2-5, Cinq pumas fiers et passionnés !
+12-P-2-6," « Six ours aimants, domestiqués ! »"
+12-S-1-1, Un cheval fou dans mon jardin ?
+12-S-1-2, « Deux ânes aigris au pelage brun ? »
+12-S-1-3, Trois signes aveugles au bord du lac ?
+12-S-1-4, Quatre vieilles truies éléphantesques !
+12-S-1-5, Cinq pumas fiers et passionnés ?
+12-S-1-6, « Six ours aimants domestiqués ? »
+12-S-2-1, « Un cheval fou dans mon jardin ? »
+12-S-2-2, « Deux ânes aigris au pelage brun ? »
+12-S-2-3, Trois signes aveugles au bord du lac ?
+12-S-2-4, Quatre vieilles truies éléphantesques !
+12-S-2-5, Cinq pumas fiers et passionnés !
+12-S-2-6, Six ours aimants domestiqués !
+12-T-1-1, Un cheval fou dans mon jardin.
+12-T-1-2, deux ânes aigris au pelage brun
+12-T-1-3, Trois signes aveugles au bord du lac.
+12-T-1-4, Quatre vieilles truies éléphantesques.
+12-T-1-5, cinq puma fière et passionnée
+12-T-1-6, Six ours aimants domestiqués.
+12-T-2-1, Un cheval fou dans mon jardin.
+12-T-2-2, Deux ânes aigris au pelage brun.
+12-T-2-3, Trois signes aveugles au bord du lac.
+12-T-2-4, Quatre vieilles truies éléphantesques !
+12-T-2-5, Cinq pumas fiers et passionnés.
+12-T-2-6, Six ours aimants domestiqués.
